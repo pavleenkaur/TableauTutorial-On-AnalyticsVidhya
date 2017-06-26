@@ -2,7 +2,7 @@
 Find the Superstore dataset that I have used in my article on Tableau, published on <a href = "https://www.analyticsvidhya.com/">AnalyticsVidhya</a>
 
 ### About the Data
-Product Sales that were made in a Superstore, is established in United States, over a span of 4 years : 2013 - 2016
+Product Sales that were made in a Superstore, established in United States, over a span of 4 years : 2013 - 2016
 
 ### Attributes
 Row ID : Unique Row ID<br>
