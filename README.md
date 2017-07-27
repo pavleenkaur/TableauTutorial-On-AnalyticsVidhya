@@ -1,5 +1,5 @@
 # TableauTutorial-SuperstoreData
-Find the Superstore dataset that I have used in my article on Tableau, published on <a href = "https://www.analyticsvidhya.com/">AnalyticsVidhya</a>
+Find the Superstore dataset that I have used in my article <a href = "https://www.analyticsvidhya.com/blog/2017/07/data-visualisation-made-easy/">Tableau for Beginners - Data Visualisation Made Easy</a>
 
 ### About the Data
 Product Sales that were made in a Superstore, established in United States, over a span of 4 years : 2013 - 2016
